@@ -1,6 +1,6 @@
-# GAME_PROGRAM-EX--8
-### Name: Ganesh B C
-### Reg No: 212225040090
+# GAME PROGRAM-EX:8
+### Name: Sivamalaich Chelvan T
+### Reg No: 212225100051
 ## Landscape Creation and Foliage in Unreal Engine
 ## Aim:
   To create a landscape in Unreal Engine, apply a custom landscape material, and add foliage for realistic environment generation.
